@@ -2,5 +2,5 @@
 
 CS + Math @ NYU | RL Intern @ Razer
 
-Working on generalizable RL agents, sim2real transfer, and curriculum learning.
-Currently reading into 3D representation learning and visual scene understanding.
+Building generalizable RL agents — sim2real transfer, curriculum learning, and LLM-orchestrated multi-agent systems.
+Currently exploring 3D representation learning and visual scene understanding.
